@@ -1,0 +1,4 @@
+# ignorer les fichiers et dossiers suivants:
+venv/
+.spyproject/
+**/__pycache__/

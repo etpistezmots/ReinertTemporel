@@ -1,0 +1,493 @@
+G0-0	12	2
+	Organic compounds	0.209689
+	Color	0.041118
+
+G1-0	15	7
+	Electroluminescent device	0.181381
+	Europium compound	0.092414
+	Electrical properties	0.036248
+	Materials preparation	0.035552
+	Hole traps	0.032202
+	Europium complex	0.028188
+	Substrate	0.025664
+
+G2-0	12	7
+	Polymer films	0.206426
+	Conducting polymers	0.129486
+	Polymer blends	0.114637
+	Brightness	0.071402
+	Spin-on coating	0.039558
+	Annealing	0.035979
+	Polymerization	0.028204
+
+G3-0	20	6
+	Photoluminescence	0.058087
+	Light emitting device	0.046073
+	Light transmission	0.032925
+	Polymer	0.029881
+	Line intensity	0.029493
+	Silver	0.027448
+
+G4-0	14	6
+	Organic semiconductors	0.195828
+	Semiconductor doping	0.044879
+	Current density	0.041555
+	Surface recombination	0.031820
+	Semiconductor device measurement	0.030684
+	LED displays	0.026006
+
+G5-0	15	6
+	Tunnel effect	0.084384
+	Electron traps	0.038282
+	MIS devices	0.032296
+	Electron spin polarization	0.031438
+	Tunnel diodes	0.028279
+	Ferromagnetic materials	0.026706
+
+G7-0	14	4
+	Light emitting devices	0.294967
+	Chemical structure	0.044119
+	Molecular configurations	0.039464
+	Electrochemical devices	0.036807
+
+G8-0	19	10
+	Charge carrier mobility	0.244916
+	Charge carrier density	0.052152
+	Electronic density of states	0.044912
+	Space charge limited conduction	0.036115
+	Electric admittance	0.034598
+	Capacitance	0.033306
+	Electronic structure	0.030818
+	Field effect transistor	0.028147
+	Molecular electronic states	0.026787
+	Gaussian distribution	0.026683
+
+G9-0	12	5
+	Optical polymers	0.313356
+	Electroluminescence	0.077699
+	Light emitting diode	0.071851
+	Polymer structure	0.057819
+	Optical planar waveguides	0.025747
+
+G10-0	14	13
+	Fluorescence	0.160462
+	Exciton	0.105132
+	Electron mobility	0.098315
+	Phosphorescence	0.082686
+	Triplet state	0.066314
+	Vacuum deposited coatings	0.061389
+	Hole mobility	0.061169
+	Dyes	0.056739
+	Time resolved spectra	0.052789
+	Electron-hole recombination	0.046391
+	Iridium compound	0.036498
+	Radiation quenching	0.026772
+	Radiative lifetimes	0.026522
+
+G11-0	19	5
+	Visible spectrum	0.132961
+	Infrared spectrum	0.108543
+	Reflectance	0.065054
+	Ultraviolet spectrum	0.045619
+	Spectral analysis	0.037814
+
+G12-0	15	8
+	Electro-optical modulation	0.071281
+	Photovoltaic cells	0.046552
+	Fullerenes	0.041190
+	Charge transfer states	0.034160
+	Light absorption	0.031044
+	Rectifier effect	0.029496
+	Light interference	0.028085
+	Nematic crystals	0.027049
+
+G12-1	3	1
+	X-ray detection	0.041732
+
+G13-0	24	13
+	Luminescent material	0.147137
+	Thin film device	0.114012
+	Strontium compound	0.064770
+	Cerium	0.050033
+	Yttrium compound	0.037304
+	Impurity states	0.035120
+	Sulfur compounds	0.033663
+	Sputter deposition	0.033157
+	Sputter coating	0.031441
+	Space charge	0.028466
+	Manganese	0.027954
+	Copper	0.026123
+	Gadolinium compound	0.025968
+
+G14-0	6	2
+	Laser beam	0.052962
+	Laser variables measurement	0.045339
+
+G15-0	27	7
+	Light sources	0.068895
+	Semiconductor laser	0.057783
+	Surface emitting laser	0.041813
+	Laser beam applications	0.039487
+	Laser diodes	0.033436
+	Vertical cavity laser	0.029637
+	VCSEL	0.025024
+
+G16-0	16	8
+	Semiconductor epitaxial layers	0.071444
+	Leakage current	0.048815
+	Semiconductor growth	0.041720
+	Semiconductor superlattices	0.041294
+	Molecular beam epitaxy	0.035582
+	VPE	0.033129
+	Dislocation density	0.027353
+	Internal stress	0.026163
+
+G17-0	18	5
+	Theoretical study	0.130764
+	Photodetectors	0.076023
+	Computer simulation	0.041480
+	Speckle	0.029613
+	Electric field effect	0.028488
+
+G18-0	13	7
+	Tin compound	0.252513
+	Anode	0.067825
+	Surface treatment	0.060959
+	Semiconductor thin films	0.055302
+	Oxidation	0.031223
+	Electric resistivity	0.030366
+	Surface cleaning	0.028885
+
+G19-0	14	5
+	Zinc compound	0.191617
+	II-VI semiconductors	0.133182
+	Magnesium compound	0.051785
+	Pulsed laser deposition	0.038295
+	Beryllium compound	0.027820
+
+G20-1	3	1
+	Wafer bonding	0.041183
+
+G21-0	26	14
+	X-ray photoelectron spectra	0.160489
+	Ultraviolet photoelectron spectra	0.121596
+	Work function	0.082101
+	Interface state	0.081966
+	Cathode	0.065956
+	Aluminium	0.062330
+	Core levels	0.059633
+	Lithium compound	0.057266
+	Chemical interdiffusion	0.046874
+	Semiconductor-metal boundaries	0.046533
+	Interface structure	0.039518
+	Surface chemistry	0.039036
+	Fermi level	0.026467
+	Secondary ion mass spectra	0.026414
+
+G22-0	16	6
+	Ion implantation	0.174590
+	Oxygen	0.098273
+	Erbium	0.062317
+	p n junction	0.057771
+	Iron compound	0.035687
+	Sensitivity analysis	0.034994
+
+G23-0	23	9
+	Measurement method	0.157866
+	Instrumentation	0.119369
+	Measurement by laser beam	0.054489
+	Displacement measurement	0.051087
+	Tungsten	0.044937
+	Spectrometer	0.033712
+	Optical harmonic generation	0.033240
+	Fiber optic sensors	0.027507
+	Gamma-ray detection	0.026264
+
+G24-0	21	6
+	Photodiodes	0.172902
+	Sensitivity	0.039503
+	Position sensitive detector	0.039278
+	Solar cell	0.032262
+	Avalanche diode	0.030617
+	Noise	0.025309
+
+G25-0	20	8
+	Amorphous semiconductors	0.222402
+	Hydrogen	0.131473
+	Selenium	0.067403
+	p i n photodiodes	0.050556
+	Silicon compound	0.044230
+	Plasma CVD coatings	0.039028
+	CVD coatings	0.038325
+	Thin film transistor	0.033258
+
+G26-0	36	13
+	Inorganic compound	0.097646
+	Transition element compounds	0.086851
+	Thin film	0.060249
+	Crystal growth from vapors	0.043073
+	Doping	0.032664
+	InSnO	0.029276
+	Mismatch lattice	0.028571
+	S Zn	0.027893
+	Zinc sulfide	0.027893
+	Thickness	0.027689
+	Manganese additions	0.026795
+	Indium oxides	0.025686
+	Tin oxides	0.025030
+
+G27-0	31	10
+	Modeling	0.168421
+	Quantum well	0.090137
+	Performance evaluation	0.064636
+	Thermal imaging	0.049043
+	Dark current	0.044775
+	Thermionic emission	0.034528
+	Imaging	0.033395
+	Wide band	0.032280
+	Infrared detector	0.031121
+	Measurement sensor	0.026999
+
+G28-0	23	8
+	Integrated optoelectronics	0.189595
+	Optical computing	0.057787
+	Optical waveguide	0.048286
+	VLSI	0.048278
+	Optical interconnection	0.043221
+	Micro-optics	0.033210
+	Photonic switching systems	0.032918
+	Optical delay lines	0.028703
+
+G29-0	26	13
+	Photoconducting device	0.184277
+	Submillimeter wave detectors	0.091867
+	High-speed optical techniques	0.077310
+	Submillimeter wave antennas	0.074426
+	Dipole antenna	0.064235
+	Submillimeter wave generation	0.054882
+	Photoconducting switches	0.052620
+	Carrier lifetime	0.052069
+	Submillimeter wave imaging	0.048318
+	Finite difference time-domain analysis	0.034707
+	Phonon-plasmon interactions	0.029506
+	Microwave photonics	0.027251
+	Frequency response	0.026516
+
+G30-0	29	14
+	Bolometer	0.197722
+	Superconducting device noise	0.080989
+	Hot carrier	0.053342
+	Niobium	0.049935
+	Superconducting microwave devices	0.048803
+	Microsensors	0.044666
+	Superconducting microbridges	0.039810
+	Superconducting junction devices	0.039486
+	Superconducting thin films	0.038882
+	High temperature superconductor	0.038346
+	Submillimeter wave mixers	0.034604
+	Superconductor device	0.032975
+	Barium compound	0.029863
+	Feedback	0.027953
+
+G31-0	16	8
+	CCD image sensors	0.194554
+	Movie camera	0.078817
+	Calibration	0.051153
+	Image reconstruction	0.051024
+	Shape measurement	0.032594
+	Geophysical equipment	0.028757
+	Optical focusing	0.027171
+	Diffraction grating	0.026894
+
+G32-0	30	12
+	Infrared imaging	0.249659
+	Image sensors	0.076040
+	Remote sensing	0.061770
+	Image recognition	0.048899
+	Image resolution	0.037945
+	Natural scenes	0.032796
+	Optical testing	0.032715
+	Electronic countermeasures	0.032269
+	Temperature measurement	0.029981
+	Radiometer	0.029319
+	Non destructive test	0.026736
+	Optical scanners	0.025385
+
+G33-0	12	8
+	Semiconductor device models	0.167075
+	Avalanche photodiodes	0.107385
+	Impact ionization	0.055129
+	Monte Carlo method	0.043204
+	Semiconductor device breakdown	0.037960
+	Semiconductor device noise	0.037153
+	Photovoltaic effect	0.030911
+	Transient response	0.025705
+
+G34-0	27	13
+	Optical design techniques	0.213749
+	Lentil	0.081460
+	Optical fabrication	0.068167
+	Aberrations	0.055834
+	Optical transfer function	0.044009
+	Ray tracing	0.039636
+	Optical collimators	0.035786
+	Mirror	0.032599
+	Diffractive optical elements	0.030426
+	Aspherical optics	0.029826
+	Optical arrays	0.027430
+	Light scattering	0.025596
+	Missile guidance	0.025281
+
+G35-0	27	13
+	Radiation detector	0.123165
+	Cadmium telluride	0.099262
+	Mercury tellurides	0.090556
+	Cd Hg Te	0.089423
+	HgCdTe	0.068345
+	Ternary compound	0.067303
+	Sensor materials	0.045434
+	Semiconductor materials	0.033951
+	Focal plane arrays	0.031038
+	Response function	0.029874
+	Optical properties	0.028951
+	Si	0.028666
+	Spectral response	0.028385
+
+G36-0	12	6
+	Elemental semiconductors	0.181810
+	Silicon	0.143263
+	Ge-Si alloys	0.057624
+	Germanium	0.056327
+	Energy gap	0.027145
+	Boron	0.025154
+
+G37-0	18	5
+	Optical sensor	0.258672
+	Measurement error	0.048842
+	Optical interferometry	0.038715
+	Chemical sensor	0.038607
+	Light interferometers	0.029335
+
+G38-0	16	8
+	Photon counting	0.251873
+	Quantum cryptography	0.042154
+	Signal processing	0.038497
+	Lidar	0.038080
+	Quantum dot	0.033203
+	Photon correlation spectrometry	0.031378
+	Temperature	0.030041
+	Microchannel plates	0.025228
+
+G39-0	18	10
+	Antimony compound	0.196001
+	Phosphorus compound	0.135583
+	Semiconductor heterojunctions	0.114760
+	Arsenic compound	0.083697
+	LPE	0.080666
+	Diodes	0.054812
+	p n heterojunctions	0.038843
+	Stimulated emission	0.038343
+	Solid solutions	0.034875
+	Spontaneous emission	0.032344
+
+G40-0	30	21
+	Pixel	0.144184
+	CMOS image sensors	0.110076
+	Chip	0.077578
+	High sensitivity	0.060044
+	Sensor array	0.054869
+	CCD camera	0.052309
+	High definition television	0.044860
+	Spatial resolution	0.043186
+	Color filter	0.042790
+	Digital image	0.042250
+	Electronic circuits	0.039673
+	Charge transfer	0.037679
+	Astronomical observation	0.036738
+	Digital photography	0.034142
+	Shift registers	0.032949
+	Image sensor	0.032522
+	Manufacturing processes	0.031950
+	Design for testability	0.030643
+	Color image	0.030232
+	Quantum yield	0.026744
+	Charge coupled devices	0.025667
+
+G41-0	18	9
+	Optoelectronic device	0.257460
+	Aerospace instrumentation	0.074225
+	Optical information processing	0.071529
+	Image processing	0.059820
+	Optics	0.049122
+	Optical image	0.047135
+	Astronomical instruments	0.038816
+	Surface topography	0.035845
+	Computer architecture	0.034182
+
+G42-0	25	12
+	As Ga	0.094672
+	GaAs	0.093308
+	Binary compound	0.079672
+	Indium arsenides	0.072640
+	Aluminium arsenides	0.050791
+	Al As Ga	0.048113
+	AlGaAs	0.048113
+	As In	0.048005
+	InAs	0.048005
+	As Ga In	0.036854
+	InGaAs	0.032266
+	Far infrared radiation	0.029574
+
+G43-0	7	2
+	Wide band gap semiconductors	0.186924
+	Gallium compound	0.149314
+
+G44-0	12	4
+	Cadmium compound	0.178837
+	Mercury compound	0.172506
+	Tellurium compound	0.052450
+	Focal plane	0.042013
+
+G45-0	11	6
+	MSM structure	0.155150
+	Ultraviolet detector	0.151854
+	Schottky barrier	0.079884
+	Schottky barrier diode	0.073348
+	Dark conductivity	0.061231
+	Electron beam lithography	0.029060
+
+G46-0	11	7
+	Nitrogen compounds	0.241530
+	MOCVD	0.109284
+	Electrical conductivity	0.075776
+	Band structure	0.074005
+	Atomic force microscopy	0.045031
+	X ray diffraction	0.031590
+	Crystal defect	0.026867
+
+G47-0	19	10
+	Gallium nitride	0.121201
+	Ga N	0.089522
+	GaN	0.086494
+	Indium nitride	0.071751
+	Aluminium nitride	0.065857
+	Al Ga N	0.055828
+	Ga In N	0.052708
+	InGaN	0.050806
+	Multiple quantum well	0.033681
+	AlGaN	0.033599
+
+G48-0	14	7
+	Gallium arsenides	0.141585
+	Aluminium compound	0.129986
+	Infrared detector	0.105946
+	Semiconductor quantum wells	0.105074
+	III-V semiconductors	0.093527
+	Quantum well devices	0.080026
+	Photoconductivity	0.039365
+
+G49-0	10	4
+	Semiconductor quantum dots	0.261732
+	Indium compound	0.114528
+	Self-assembly	0.056007
+	Ground states	0.026801
